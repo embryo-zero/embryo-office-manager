@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Office Manager
+
+**Embryo Office Manager** is Embryo-Zero's fork of [dolibarr](https://github.com/Dolibarr/dolibarr), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # DOLIBARR ERP & CRM
 
 ![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
